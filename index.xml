@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>type Su</title>
+    <link>https://type-su.github.io/</link>
+    <description>Recent content on type Su</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://type-su.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search</title>
+      <link>https://type-su.github.io/search/</link>
+      <pubDate>Sun, 13 Dec 2020 00:50:33 +0900</pubDate>
+      
+      <guid>https://type-su.github.io/search/</guid>
+      <description>search</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://type-su.github.io/archives/</link>
+      <pubDate>Sun, 13 Dec 2020 00:50:17 +0900</pubDate>
+      
+      <guid>https://type-su.github.io/archives/</guid>
+      <description>archives</description>
+    </item>
+    
+  </channel>
+</rss>
