@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://su-record.github.io/categories/</loc>
-    <lastmod>2020-12-13T10:49:04+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://su-record.github.io/posts/record/create/</loc>
     <lastmod>2020-12-13T10:49:04+09:00</lastmod>
   </url>
@@ -18,27 +13,37 @@
   </url>
   
   <url>
-    <loc>https://su-record.github.io/tags/record/</loc>
-    <lastmod>2020-12-13T10:49:04+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://su-record.github.io/categories/record-create/</loc>
-    <lastmod>2020-12-13T10:49:04+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://su-record.github.io/</loc>
     <lastmod>2020-12-13T10:49:04+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://su-record.github.io/tags/</loc>
-    <lastmod>2020-12-13T10:49:04+09:00</lastmod>
+    <loc>https://su-record.github.io/categories/</loc>
+    <lastmod>2020-12-13T10:36:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://su-record.github.io/series/create-guide/</loc>
+    <lastmod>2020-12-13T10:36:30+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://su-record.github.io/posts/record/</loc>
+    <lastmod>2020-12-13T10:36:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://su-record.github.io/categories/develop/</loc>
+    <lastmod>2020-12-13T10:36:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://su-record.github.io/series/</loc>
+    <lastmod>2020-12-13T10:36:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://su-record.github.io/categories/syntax/</loc>
     <lastmod>2020-12-13T10:36:30+09:00</lastmod>
   </url>
   
@@ -53,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://su-record.github.io/series/</loc>
+    <loc>https://su-record.github.io/tags/</loc>
   </url>
   
 </urlset>

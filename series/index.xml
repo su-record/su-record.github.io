@@ -4,6 +4,16 @@
     <title>Series on Su record</title>
     <link>https://su-record.github.io/series/</link>
     <description>Recent content in Series on Su record</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://su-record.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Dec 2020 10:36:30 +0900</lastBuildDate><atom:link href="https://su-record.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create Guide</title>
+      <link>https://su-record.github.io/series/create-guide/</link>
+      <pubDate>Sun, 13 Dec 2020 10:36:30 +0900</pubDate>
+      
+      <guid>https://su-record.github.io/series/create-guide/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
