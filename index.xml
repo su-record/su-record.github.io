@@ -5,7 +5,7 @@
     <link>https://su-record.github.io/</link>
     <description>Recent content on Su record</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Dec 2020 08:44:13 +0900</lastBuildDate><atom:link href="https://su-record.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Dec 2020 10:36:30 +0900</lastBuildDate><atom:link href="https://su-record.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Search</title>
       <link>https://su-record.github.io/search/</link>
@@ -22,15 +22,6 @@
       
       <guid>https://su-record.github.io/archives/</guid>
       <description>archives</description>
-    </item>
-    
-    <item>
-      <title>Create</title>
-      <link>https://su-record.github.io/posts/create/</link>
-      <pubDate>Sun, 13 Dec 2020 08:44:13 +0900</pubDate>
-      
-      <guid>https://su-record.github.io/posts/create/</guid>
-      <description>create note</description>
     </item>
     
   </channel>
