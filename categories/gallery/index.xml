@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Su record</title>
-    <link>https://su-record.github.io/posts/</link>
-    <description>Recent content in Posts on Su record</description>
+    <title>gallery on Su record</title>
+    <link>https://su-record.github.io/categories/gallery/</link>
+    <description>Recent content in gallery on Su record</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Dec 2020 14:16:34 +0900</lastBuildDate><atom:link href="https://su-record.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Dec 2020 14:16:34 +0900</lastBuildDate><atom:link href="https://su-record.github.io/categories/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insta feed</title>
       <link>https://su-record.github.io/posts/insta/</link>
